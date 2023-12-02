@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to MugiBank accounts related prod APIs "
   contactDetails:
     name: "Amrit Vaishnav - Product Owner"
-    email: "amritvaishnav@mugibank.com"
+    email: "{cipher}a512207263c138b0551ea195c72cc5788201a9d1f7565ff2fafe17b987bacd469d1defd0e829c05ff6f7920533428b38"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
