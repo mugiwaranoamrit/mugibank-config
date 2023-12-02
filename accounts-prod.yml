@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to MugiBank accounts related prod APIs "
+  message: "Welcome to MugiBank accounts related production APIs "
   contactDetails:
     name: "Amrit Vaishnav - Product Owner"
     email: "{cipher}a512207263c138b0551ea195c72cc5788201a9d1f7565ff2fafe17b987bacd469d1defd0e829c05ff6f7920533428b38"
